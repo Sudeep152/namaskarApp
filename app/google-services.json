@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319036544731",
+    "firebase_url": "https://namaskar-757c3.firebaseio.com",
+    "project_id": "namaskar-757c3",
+    "storage_bucket": "namaskar-757c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319036544731:android:e0dc8cbb9a9d28889e5efe",
+        "android_client_info": {
+          "package_name": "com.namaskar.namaskar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319036544731-cpqv59t1qbklu4fl42e6gt6il1m4jv0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHvdiWn9f5ywuHyLQDsPpgicx-5XrLf_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319036544731-cpqv59t1qbklu4fl42e6gt6il1m4jv0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
